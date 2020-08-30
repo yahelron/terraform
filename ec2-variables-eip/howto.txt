@@ -5,4 +5,4 @@ in this file:
 - vol size
 
 how to user for automatic script: 
-terraform apply -var="server_name=srv-123" -auto-approve
+terraform apply -var="server_name=my-server1" -auto-approve
