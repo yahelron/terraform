@@ -1,0 +1,8 @@
+in this file:
+- server name as a variable
+- tags
+- creating of elastic ip
+- vol size
+
+how to user for automatic script: 
+terraform apply -var="server_name=srv-123" -auto-approve
